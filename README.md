@@ -1,6 +1,6 @@
 ### hello
 
-# my projects and the tools i used
+# my projects and the tools i used (newest first)
 ### [Vacancy Tracker](https://github.com/sendemy/vacancy-tracker)
 my best project so far yet it's still unfinished (Fullstack)
 - Frontend
@@ -26,3 +26,7 @@ a project from JavaScript Mastery's course i haven't finished
 ### [Telegram Analyzer](https://github.com/sendemy/telegram-analyzer)
 a cool project for analyzing chat message history given from user in JSON
 - Vanilla JS, CSS, E-Charts
+- 
+### [Tic Tac Toe](https://github.com/sendemy/tic-tac-toe/tree/master)
+a simple tic-tac-toe game in browser with some funny logic to detect win/loss
+- React, Vanilla JS, Vanilla CSS
