@@ -24,9 +24,9 @@ a project from JavaScript Mastery's course i haven't finished
 - React, TypeScript, Grafbase, Vanilla CSS
 		
 ### [Telegram Analyzer](https://github.com/sendemy/telegram-analyzer)
-a cool project for analyzing chat message history given from user in JSON
+a cool project for analyzing chat message history given from a user in JSON
 - Vanilla JS, CSS, E-Charts
-- 
+
 ### [Tic Tac Toe](https://github.com/sendemy/tic-tac-toe/tree/master)
 a simple tic-tac-toe game in browser with some funny logic to detect win/loss
 - React, Vanilla JS, Vanilla CSS
